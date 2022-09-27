@@ -15,6 +15,3 @@ A stablecoin that does not compromise on decentralization nor require collateral
 
 
 
-
-
-\
