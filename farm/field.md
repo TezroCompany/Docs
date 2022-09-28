@@ -16,19 +16,19 @@ TopCorn sets the Soil supply at the beginning of each Season according to the pe
 
 ### **Pods**
 
-Corns are Sown in exchange for Pods, the TopCorn-native debt asset. Loans to TopCorn are issued with a fixed interest rate, known as Temperature, and an unknown maturity date.
+Corns are Sown in exchange for Pods, the TopCorn-native debt asset. Loans to TopCorn are issued with a fixed interest rate, known as Weather, and an unknown maturity date.
 
-The number of Pods received from 1 Sown Corn is determined by the Temperature at the time of Sowing. Newly issued Pods accumulate in the back of the Pod Line. The front of the Pod Line receives 1/3 of new Corn mints.
+The number of Pods received from 1 Sown Corn is determined by the Weather at the time of Sowing. Newly issued Pods accumulate in the back of the Pod Line. The front of the Pod Line receives 1/3 of new Corn mints.
 
 Pods Ripen into Harvestable Pods that can be Harvested (redeemed) for 1 Corn each on a First In, First Out (FIFO) basis. There is no penalty for waiting to Harvest Pods.
 
 Pods are tradeable on the Pod Market. Pods can also be Transferred to another address directly.
 
-### **Temperature**
+### Weather&#x20;
 
-The Temperature is the interest rate for Sowing Corns in the Field. At 500% Temperature, 1 Corn can be Sown in exchange for 6 Pods. Once those Pods become Harvestable, they can be Harvested in exchange for 6 Corns.
+The Weather is the interest rate for Sowing Corns in the Field. At 500% Weather, 1 Corn can be Sown in exchange for 6 Pods. Once those Pods become Harvestable, they can be Harvested in exchange for 6 Corns.
 
-The Temperature is constant during each Season. TopCorn changes the Temperature at the beginning of each Season depending on various conditions, according to the peg maintenance mechanism.
+The Weather is constant during each Season. TopCorn changes the Weather at the beginning of each Season depending on various conditions, according to the peg maintenance mechanism.
 
 ### **Field Process**
 
