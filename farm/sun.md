@@ -12,7 +12,7 @@ Upon acceptance of the sunrise() call, the Sun:
 
 1. Increments the Season number;
 2. Calculates deltaB, the sum of the time and liquidity weighted average shortage or excess Corns across liquidity pools on the Oracle Whitelist;
-3. Changes the Temperature;
+3. Changes the Weather;
 4. Sets the new Soil supply;
 5. Mints Corns if necessary; and
 6. Awards Corns to the address that successfully called the sunrise() function.
