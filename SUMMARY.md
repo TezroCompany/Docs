@@ -19,7 +19,7 @@
 ## 🏦 PEG MAINTENANCE
 
 * [Overview](peg-maintenance/overview.md)
-* [Temperature](peg-maintenance/temperature.md)
+* [Weather](peg-maintenance/weather.md)
 * [Convert](peg-maintenance/convert.md)
 * [Flood](peg-maintenance/flood.md)
 

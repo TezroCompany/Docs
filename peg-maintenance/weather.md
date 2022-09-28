@@ -1,8 +1,8 @@
-# Temperature
+# Weather
 
-Topcorn relies on a decentralized set of creditors to maintain Corn price stability. Anytime Topcorn is willing to issue debt, it issues Soil. Soil represents the number of Corns that Topcorn is currently willing to borrow. Loans to Topcorn are issued with a fixed interest rate, known as Temperature. If the Temperature is 500%, 1 Corn can be Sown in exchange for 6 Pods. Once those Pods become Harvestable, they can be Harvested in exchange for 6 Corns.
+Topcorn relies on a decentralized set of creditors to maintain Corn price stability. Anytime Topcorn is willing to issue debt, it issues Soil. Soil represents the number of Corns that Topcorn is currently willing to borrow. Loans to Topcorn are issued with a fixed interest rate, known as Weather. If the Weather is 500%, 1 Corn can be Sown in exchange for 6 Pods. Once those Pods become Harvestable, they can be Harvested in exchange for 6 Corns.
 
-At the beginning of each Season, Topcorn changes the Temperature depending on its position (price and debt level) and current state (direction and acceleration) with respect to its ideal equilibrium.
+At the beginning of each Season, Topcorn changes the Weather depending on its position (price and debt level) and current state (direction and acceleration) with respect to its ideal equilibrium.
 
 ### **Direction**
 
@@ -16,7 +16,7 @@ When the deltaB over the previous Season is < 0, debt can only increase or remai
 
 ### **Demand for Soil**
 
-Demand for Soil is a factor in the acceleration of Topcorn with respect to ideal equilibrium, which affects Temperature changes. Demand for Soil is considered decreasing, steady or increasing.
+Demand for Soil is a factor in the acceleration of Topcorn with respect to ideal equilibrium, which affects Weather changes. Demand for Soil is considered decreasing, steady or increasing.
 
 * The change in Soil is calculated for each of the prior two Seasons ($$\Delta S$$).&#x20;
 * The ratio of the change in Soil over the prior two Seasons (Delta Demand) is calculated as the change in Soil in the previous Season ($$\Delta S_{t-1}$$) divided by the change in Soil two Seasons ago ($$\Delta S_{t-2}$$).
@@ -39,7 +39,7 @@ However, when there is between 0 and 1 Soil remaining at the end of any Season, 
 
 The current state of Topcorn with respect to ideal equilibrium is in part determined by the acceleration of change.
 
-The acceleration of Topcorn affects the magnitude of Temperature changes and is considered decelerating, steady or accelerating based on the price over the previous Season and the demand for Soil.
+The acceleration of Topcorn affects the magnitude of Weather changes and is considered decelerating, steady or accelerating based on the price over the previous Season and the demand for Soil.
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
@@ -60,4 +60,4 @@ When the debt level is excessively high or low, an optimal state is accelerating
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-Considering the current state and the debt level, Topcorn adjusts the Temperature to move toward the optimal state:
+Considering the current state and the debt level, Topcorn adjusts the Weather to move toward the optimal state:
