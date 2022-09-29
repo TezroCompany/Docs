@@ -2,7 +2,7 @@
 
 The TopCorn peg maintenance mechanism requires a protocol-native timekeeping mechanism and regular code execution on BSC. The Sun keeps time on the Farm in Seasons and incentivizes cost-efficient and timely calling of the sunrise() function.
 
-TopCorn adjusts itself to return the Corn price to its value peg at the beginning of every Season. Each Season is \~1 hour long. The first Season began when TopCorn was deployed on August 17, 2022.
+TopCorn adjusts itself to return the Corn price to its value peg at the beginning of every Season. Each Season is \~1 hour long. The first Season began when TopCorn was deployed on September 29, 2022.
 
 The exact beginning of each Season may vary as Seasons do not begin until the sunrise() function has been called through an BSC transaction. The first transaction that successfully calls the sunrise() function after the top of each hour UTC begins a new Season. TopCorn only accepts one sunrise() function call per Season.
 
