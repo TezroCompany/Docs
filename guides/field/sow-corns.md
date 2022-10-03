@@ -1,6 +1,6 @@
 # Sow Corns
 
-When there is Soil in the Field, Farmers can lend their Corns to Topcorn for an interest rate known as the Temperature.
+When there is Soil in the Field, Farmers can lend their Corns to Topcorn for an interest rate known as the Weather.
 
 1. Make sure you are on [topcorn.tezro.com](https://topcorn.tezro.com) and [connect your wallet](../getting-started/connect-to-topcorn.md).
 2. Navigate to the [“Field” page](https://topcorn.tezro.com/field).
