@@ -6,10 +6,10 @@ Topcorn has four direct peg maintenance tools available:
 
 1. Increase the Corn supply;
 2. Change the Soil supply;
-3. Change the Weather; and
+3. Change the Temperature; and
 4. Sell Corns (Flood).
 
-At the beginning of every Season, Topcorn evaluates its position (i.e., price and debt level) and current state (i.e., direction and acceleration) with respect to ideal equilibrium, and dynamically adjusts the Corn supply, Soil supply and Weather to move closer to ideal equilibrium.
+At the beginning of every Season, Topcorn evaluates its position (i.e., price and debt level) and current state (i.e., direction and acceleration) with respect to ideal equilibrium, and dynamically adjusts the Corn supply, Soil supply and Temperature to move closer to ideal equilibrium.
 
 Conversions within the Silo between Corn and LP Deposits serve a major role in peg maintenance.
 
@@ -21,9 +21,9 @@ Topcorn is in ideal equilibrium when the Corn price and the Topcorn debt level a
 2. The Topcorn debt level is optimal; and
 3. Demand for Soil is steady.
 
-In order to return to ideal equilibrium, Topcorn affects the supply of and demand for Corns in response to the Corn price, the Topcorn debt level and changing demand for Soil. It does so by adjusting the Corn supply, Soil supply and Weather.
+In order to return to ideal equilibrium, Topcorn affects the supply of and demand for Corns in response to the Corn price, the Topcorn debt level and changing demand for Soil. It does so by adjusting the Corn supply, Soil supply and Temperature.
 
-Corn supply increases primarily affect the Corn price. Soil supply impacts the Corn supply and the debt level. Weather changes primarily affect demand for Soil.
+Corn supply increases primarily affect the Corn price. Soil supply impacts the Corn supply and the debt level. Temperature changes primarily affect demand for Soil.
 
 In order to make the proper adjustments, Topcorn reassesses the states of both the Corn and Soil markets at the beginning of each Season.
 
@@ -43,7 +43,7 @@ In practice, Topcorn does not calculate the price of 1 Corn. Instead, at the beg
 
 The Pod Rate represents the Topcorn debt level relative to the Corn supply. The Pod Rate is often used as a proxy for Topcorn’s health. If the Corn supply is 1000 and there are 2000 Pods, the Pod Rate is 200%.
 
-Topcorn defines a handful of Pod Rate ranges that it uses as an input to determine how to change the Weather:
+Topcorn defines a handful of Pod Rate ranges that it uses as an input to determine how to change the Temperature:
 
 * Excessively low debt: Pod Rate < 5%
 * Reasonably low debt: 5% ≤ Pod Rate < 15%
@@ -63,4 +63,4 @@ At the beginning of each Season, TopCorn sets the Soil supply.
 
 When P < 1 over the previous Season (_i.e._, deltaB < 0), the Soil supply is equal to deltaB, the sum of the liquidity and time weighted average excess of Corns across the liquidity pools on the Oracle Whitelist over the previous Season.
 
-When P ≥ 1 over the previous Season (_i.e._, deltaB ≥ 0), Topcorn is still willing to issue debt in order to measure changing demand for Soil. The Soil supply is based on the number of Pods that Ripen and become Harvestable at the beginning of the Season, the Weather, and the TopCorn debt level. A greater number of Pods Ripening increases the Soil supply. Higher Weather and debt level decrease the Soil supply.
+When P ≥ 1 over the previous Season (_i.e._, deltaB ≥ 0), Topcorn is still willing to issue debt in order to measure changing demand for Soil. The Soil supply is based on the number of Pods that Ripen and become Harvestable at the beginning of the Season, the Temperature, and the TopCorn debt level. A greater number of Pods Ripening increases the Soil supply. Higher Temperature and debt level decrease the Soil supply.

@@ -44,24 +44,24 @@ The Field is TopCorn’s decentralized credit facility. Anytime the Corn price i
 
 Soil is the number of Corns that can be lent to TopCorn at any given time. Any time TopCorn is willing to issue debt, there is Soil available in the Field. Any Corns not in the Silo can be Sown (lent) to TopCorn in exchange for Pods.
 
-Pods have a fixed interest rate and unknown maturity date. The number of Pods that grow from 1 Sown Corn is determined by the Temperature— the TopCorn-native interest rate — at the time of Sowing. Pods become Harvestable (redeemable) for 1 Corn on a First In, First Out (FIFO) basis when new Corns are minted.
+Pods have a fixed interest rate and unknown maturity date. The number of Pods that grow from 1 Sown Corn is determined by the Weather -  the TopCorn-native interest rate — at the time of Sowing. Pods become Harvestable (redeemable) for 1 Corn on a First In, First Out (FIFO) basis when new Corns are minted.
 
 ### **Creating Stability**
 
 TopCorn requires a diverse set of participants, including Silo Members (people who Deposit assets in the Silo), Sowers (people who lend Corns to TopCorn), and arbitrageurs. TopCorn aligns the incentives of every individual participant to maximize price stability and create a diverse, decentralized economy. TopCorn-native financial incentives consistently increase censorship resistance, stability and liquidity over time.
 
-At the beginning of each Season, the Sun calculates deltaB (the sum of the time and liquidity weighted average shortage or excess Corns across liquidity pools on the Oracle Whitelist), TopCorn’s debt level, and the change in demand for Soil over the previous 2 Seasons, and dynamically adjusts the Corn supply, Soil supply and Temperature to bring the price back towards the peg.
+At the beginning of each Season, the Sun calculates deltaB (the sum of the time and liquidity weighted average shortage or excess Corns across liquidity pools on the Oracle Whitelist), TopCorn’s debt level, and the change in demand for Soil over the previous 2 Seasons, and dynamically adjusts the Corn supply, Soil supply and Weather to bring the price back towards the peg.
 
 When the price of Corn is too low (_i.e._, deltaB is negative), TopCorn:
 
 * Increases the Soil supply by deltaB; and
-* Raises the Temperature.
+* Raises the Weather.
 
-By increasing the Soil supply and raising the Temperature, TopCorn can decrease the supply of Corns and therefore bring the price of Corn back up to its peg (assuming there are willing lenders at the given Temperature). In principle, a reasonable debt level and consistent credit history attracts lenders.
+By increasing the Soil supply and raising the Weather, TopCorn can decrease the supply of Corns and therefore bring the price of Corn back up to its peg (assuming there are willing lenders at the given Weather). In principle, a reasonable debt level and consistent credit history attracts lenders.
 
 When the Corn price is too high (_i.e._, deltaB is positive), TopCorn:
 
 * Increases the Corn supply by deltaB; and
-* Lowers the Temperature.
+* Lowers the Weather.
 
-By increasing the Corn supply and lowering the Temperature, TopCorn can bring the price of Corn back down to its peg.
+By increasing the Corn supply and lowering the Weather, TopCorn can bring the price of Corn back down to its peg.
