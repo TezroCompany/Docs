@@ -8,7 +8,7 @@ TopCorn relies on three native assets and three interconnected facilities to reg
 
 TopCorn issues 3 tokens:
 
-1. Corn — TopCorn ERC-20 fiat stablecoins;
+1. Corn — TopCorn BEP-20 fiat stablecoins;
 2. Stalk — illiquid yield-generating governance tokens; and
 3. Seeds — illiquid tokens which yield 1/10000 Stalk each Season.
 

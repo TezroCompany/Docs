@@ -4,7 +4,7 @@ The Sun keeps time on the Farm in **Seasons** and incentivizes cost-efficient an
 
 You can view [the Sun](../../farm/sun.md) at the upper left corner of [topcorn.tezro.com](https://topcorn.tezro.com/).
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The Sun displays the current Season, which is the number of Seasons completed since sunrise() was called for the first time. If [Corns were minted](../../peg-maintenance/overview.md#corn-supply) during the current Season based on the [peg maintenance mechanism](../../peg-maintenance/overview.md), the Sun will appear as a rain cloud icon.
 

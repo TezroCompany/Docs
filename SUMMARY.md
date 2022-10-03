@@ -36,3 +36,21 @@
 * [Silo](guides/silo/README.md)
   * [Understand vAPY](guides/silo/understand-vapy.md)
   * [Deposit in the Silo](guides/silo/deposit-in-the-silo.md)
+  * [Understand Silo Deposit Performance](guides/silo/understand-silo-deposit-performance.md)
+  * [Convert in the Silo](guides/silo/convert-in-the-silo.md)
+  * [Withdraw from the Silo](guides/silo/withdraw-from-the-silo.md)
+  * [Claim Assets](guides/silo/claim-assets.md)
+* [Field](guides/field/README.md)
+  * [Sow Corns](guides/field/sow-corns.md)
+  * [Transfer Pods](guides/field/transfer-pods.md)
+  * [Harvest Pods](guides/field/harvest-pods.md)
+* [Market](guides/market/README.md)
+  * [Buy Pods](guides/market/buy-pods.md)
+  * [Sell Pods](guides/market/sell-pods.md)
+* [Swap](guides/swap/README.md)
+  * [Trade Corns](guides/swap/trade-corns.md)
+
+## 📄 ADDITIONAL RESOURCES
+
+* [Asset States](additional-resources/asset-states.md)
+* [Glossary](additional-resources/glossary.md)

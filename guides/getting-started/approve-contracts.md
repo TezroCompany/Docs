@@ -4,5 +4,5 @@ Certain transactions require approving certain smart contracts to process your t
 
 To send an approval for the transaction in question:
 
-1. Select "Approve \[Token]".
+1. Select "Enable \[Token]".
 2. Confirm the transaction in your wallet and your hardware wallet, if applicable. You should verify that the transaction is interacting with the **correct contract** before signing it.

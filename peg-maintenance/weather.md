@@ -41,7 +41,7 @@ The current state of Topcorn with respect to ideal equilibrium is in part determ
 
 The acceleration of Topcorn affects the magnitude of Weather changes and is considered decelerating, steady or accelerating based on the price over the previous Season and the demand for Soil.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### **Current and Optimal State**
 
@@ -58,6 +58,6 @@ Topcorn's optimal state is that which moves Topcorn toward ideal equilibrium in 
 
 When the debt level is excessively high or low, an optimal state is accelerating toward ideal equilibrium. When the debt level is reasonably high or low, an optimal state is either steady or decelerating toward ideal equilibrium.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Considering the current state and the debt level, Topcorn adjusts the Weather to move toward the optimal state:

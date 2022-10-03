@@ -4,6 +4,6 @@ If you have Corns in your wallet but they do not appear under “Assets” in Me
 
 1. At the bottom of the “Assets” tab in MetaMask, select “import tokens”.
 2. Select the “Custom Token” tab.
-3. Under “Token Contract Address”, enter “**CONTRACT\_ADDRESS**”. “Token Symbol” will automatically be filled with “CORN”.
+3. Under “Token Contract Address”, enter “**0x3AF6F4fA0D451C170dDeE3c79bAa8DC37DF322C5**”. “Token Symbol” will automatically be filled with “CORN”.
 4. Select “Add Custom Token”.
 5. Select “Import Tokens”.
