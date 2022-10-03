@@ -58,6 +58,6 @@ Topcorn's optimal state is that which moves Topcorn toward ideal equilibrium in 
 
 When the debt level is excessively high or low, an optimal state is accelerating toward ideal equilibrium. When the debt level is reasonably high or low, an optimal state is either steady or decelerating toward ideal equilibrium.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Considering the current state and the debt level, Topcorn adjusts the Weather to move toward the optimal state:
