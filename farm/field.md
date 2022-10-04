@@ -24,7 +24,7 @@ Pods Ripen into Harvestable Pods that can be Harvested (redeemed) for 1 Corn eac
 
 Pods are tradeable on the Pod Market. Pods can also be Transferred to another address directly.
 
-### Weather&#x20;
+### [Weather](https://topcorn.gitbook.io/docs/peg-maintenance/weather)&#x20;
 
 The Weather is the interest rate for Sowing Corns in the Field. The Weather is constant during each Season. TopCorn changes the Weather at the beginning of each Season depending on various conditions, according to the peg maintenance mechanism.
 
