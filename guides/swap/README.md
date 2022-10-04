@@ -1,5 +1,5 @@
 # Swap
 
-Guides on trading and transferring Beans.
+Guides on trading and transferring Corns.
 
 * [Trade Corns](trade-corns.md)
