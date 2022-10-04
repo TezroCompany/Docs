@@ -41,7 +41,7 @@ The current state of Topcorn with respect to ideal equilibrium is in part determ
 
 The acceleration of Topcorn affects the magnitude of Weather changes and is considered decelerating, steady or accelerating based on the price over the previous Season and the demand for Soil.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### **Current and Optimal State**
 

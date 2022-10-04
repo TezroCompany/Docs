@@ -9,7 +9,7 @@ Silo Members can participate in peg maintenance by Converting certain Deposited 
 5.  Select “Convert” and enter the amount of the Deposited asset you would like to Convert.\
 
 
-    <figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 6.  Below the input box, select the asset to “Convert to”. Available pairs are listed in the Current Convert Whitelist.\
 
 

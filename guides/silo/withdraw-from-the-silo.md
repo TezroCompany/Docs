@@ -9,7 +9,7 @@ The associated amount of Stalk, Seeds, and Stalk from Seeds from a given Deposit
 5.  Select the “Withdraw” tab and enter the amount of the Deposited asset you would like to Withdraw. You may Withdraw any amount up to your “Deposited Balance” shown below the input box.\
 
 
-    <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 6. A transaction preview showing the decrease in Stalk and Seeds will appear below the inputs. Select the “Transaction Details” dropdown to review each step of the transaction.
 7. Select “Withdraw”.
 8. Confirm the transaction in your wallet and your hardware wallet, if applicable. You should verify that the transaction is interacting with the correct contract before signing it.

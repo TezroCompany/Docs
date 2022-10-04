@@ -12,7 +12,7 @@ Assets on the **Deposit Whitelist** can be Deposited in **the Silo** to earn Sta
    *   For example, a Corn Deposit can be made in either Corn or BNB. BNB will be converted to Corn during the Deposit transaction.\
 
 
-       <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 5. Enter the amount you want to Deposit. A transaction preview showing the **Stalk and Seeds** to be rewarded will appear below the inputs. Select the “Transaction Details” dropdown to review each step of the transaction.
 6.  You may select a slippage tolerance by selecting the gear icon. The default slippage tolerance is 0.1%.\
 

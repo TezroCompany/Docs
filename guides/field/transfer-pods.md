@@ -17,7 +17,7 @@ Pods can be Transferred from one address to another directly. Note that Pods can
 6.  Enter the Binance Smart-Chain address to Transfer the Pods to under “Transfer to”.\
 
 
-    <figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 7. A transaction preview will appear below the inputs. Select the “Transaction Details” dropdown to review each step of the transaction.
 8. Select “Transfer”.
 9. Confirm the transaction in your wallet and your hardware wallet, if applicable. You should verify that the transaction is interacting with the correct contract before signing it.
