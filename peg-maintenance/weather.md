@@ -1,6 +1,6 @@
 # Weather
 
-Topcorn relies on a decentralized set of creditors to maintain Corn price stability. Anytime Topcorn is willing to issue debt, it issues Soil. Soil represents the number of Corns that Topcorn is currently willing to borrow. Loans to Topcorn are issued with a fixed interest rate, known as Weather. If the Weather is 500%, 1 Corn can be Sown in exchange for 6 Pods. Once those Pods become Harvestable, they can be Harvested in exchange for 6 Corns.
+Topcorn relies on a decentralized set of creditors to maintain Corn price stability. Anytime Topcorn is willing to issue debt, it issues Soil. Soil represents the number of Corns that Topcorn is currently willing to borrow. Loans to Topcorn are issued with a fixed interest rate, known as Weather. Once those Pods become Harvestable, they can be Harvested.
 
 At the beginning of each Season, Topcorn changes the Weather depending on its position (price and debt level) and current state (direction and acceleration) with respect to its ideal equilibrium.
 
