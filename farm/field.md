@@ -28,8 +28,6 @@ Pods are tradeable on the Pod Market. Pods can also be Transferred to another ad
 
 The Weather is the interest rate for Sowing Corns in the Field. The Weather is constant during each Season. TopCorn changes the Weather at the beginning of each Season depending on various conditions, according to the peg maintenance mechanism.
 
-The Weather is constant during each Season. TopCorn changes the Weather at the beginning of each Season depending on various conditions, according to the peg maintenance mechanism.
-
 ### **Field Process**
 
 1. Corns are Sown in exchange for Pods.
