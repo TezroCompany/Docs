@@ -26,7 +26,7 @@ Pods are tradeable on the Pod Market. Pods can also be Transferred to another ad
 
 ### Weather&#x20;
 
-The Weather is the interest rate for Sowing Corns in the Field. At 500% Weather, 1 Corn can be Sown in exchange for 6 Pods. Once those Pods become Harvestable, they can be Harvested in exchange for 6 Corns.
+The Weather is the interest rate for Sowing Corns in the Field. The Weather is constant during each Season. TopCorn changes the Weather at the beginning of each Season depending on various conditions, according to the peg maintenance mechanism.
 
 The Weather is constant during each Season. TopCorn changes the Weather at the beginning of each Season depending on various conditions, according to the peg maintenance mechanism.
 
