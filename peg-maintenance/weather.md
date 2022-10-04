@@ -32,7 +32,7 @@ However, when there is between 0 and 1 Soil remaining at the end of any Season, 
 * After one or more Seasons in which there was > 1 Soil remaining, if there is between 0 and 1 Soil remaining at the end of the latest Season, demand for Soil is increasing.
 * When there is at most 1 Soil remaining in consecutive Seasons, the difference in time it takes for the excess Soil (S > 1) to be Sown over the previous two Seasons can provide a more accurate measurement.
   * If S > 1 was Sown in the first five minutes of the previous Season, demand for Soil is increasing.
-  * If S > 1 was not Sown in the first five minutes of the previous Season, Beanstalk compares the time it took for all S > 1 to be Sown in the previous two Seasons ($$\Delta S_{t-1}$$ and $$\Delta S_{t-2}$$).
+  * If S > 1 was not Sown in the first five minutes of the previous Season, TopCorn compares the time it took for all S > 1 to be Sown in the previous two Seasons ($$\Delta S_{t-1}$$ and $$\Delta S_{t-2}$$).
   * If it took less than one minute longer for all S > 1 to be Sown in $$\Delta S_{t-2}$$ than $$\Delta S_{t-1}$$, demand for Soil is decreasing. If it took longer than one minute, demand for Soil is increasing. Otherwise, demand for Soil is steady.
 
 ### **Acceleration**

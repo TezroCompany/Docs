@@ -16,7 +16,7 @@ When there is Soil in the Field, Farmers can lend their Corns to Topcorn for an 
    * The Soil available when preparing to buy and Sow Corns may not still be available at the time the transaction is confirmed by the network. If a transaction is submitted to Sow a greater amount of Soil than is available, the remaining Soil will be Sown, and all remaining Corns from the transaction will be sent to your Wallet.
 6. A transaction preview will appear below the inputs. Select the “Transaction Details” dropdown to review each step of the transaction.
 7. You may select a slippage tolerance by selecting the gear icon. The default slippage tolerance is 0.1%.
-8. If you are buying and Sowing Corns with BNB or have previously approved the asset being spent, skip to Step 10. For all other assets, select “Enable \[Token]”. This allows the Beanstalk contract to spend the asset, but does not use it to buy and Sow Corns yet.
+8. If you are buying and Sowing Corns with BNB or have previously approved the asset being spent, skip to Step 10. For all other assets, select “Enable \[Token]”. This allows the TopCorn contract to spend the asset, but does not use it to buy and Sow Corns yet.
 9. Confirm the approval transaction in your wallet, and your hardware wallet, if applicable. You should verify that the transaction is interacting with the correct contract before signing it.
 10. Select “Sow”.
 11. Confirm the transaction in your wallet and your hardware wallet, if applicable. You should verify that the transaction is interacting with the correct contract before signing it.
